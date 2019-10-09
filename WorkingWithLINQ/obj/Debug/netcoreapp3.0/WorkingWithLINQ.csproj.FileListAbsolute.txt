@@ -1,0 +1,11 @@
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\bin\Debug\netcoreapp3.0\WorkingWithLINQ.exe
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\bin\Debug\netcoreapp3.0\WorkingWithLINQ.deps.json
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\bin\Debug\netcoreapp3.0\WorkingWithLINQ.runtimeconfig.json
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\bin\Debug\netcoreapp3.0\WorkingWithLINQ.runtimeconfig.dev.json
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\bin\Debug\netcoreapp3.0\WorkingWithLINQ.dll
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\bin\Debug\netcoreapp3.0\WorkingWithLINQ.pdb
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\obj\Debug\netcoreapp3.0\WorkingWithLINQ.csprojAssemblyReference.cache
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\obj\Debug\netcoreapp3.0\WorkingWithLINQ.AssemblyInfoInputs.cache
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\obj\Debug\netcoreapp3.0\WorkingWithLINQ.AssemblyInfo.cs
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\obj\Debug\netcoreapp3.0\WorkingWithLINQ.dll
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\WorkingWithLINQ\obj\Debug\netcoreapp3.0\WorkingWithLINQ.pdb
