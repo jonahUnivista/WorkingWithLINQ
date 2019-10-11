@@ -1,0 +1,8 @@
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\bin\Debug\fuel.csv
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\bin\Debug\Cars.exe.config
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\bin\Debug\Cars.exe
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\bin\Debug\Cars.pdb
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\obj\Debug\Cars.exe
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\obj\Debug\Cars.pdb
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Cars\bin\Debug\manufacturers.csv

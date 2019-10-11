@@ -1,0 +1,6 @@
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Queries\obj\Debug\Queries.csprojAssemblyReference.cache
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Queries\bin\Debug\Queries.exe.config
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Queries\bin\Debug\Queries.exe
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Queries\bin\Debug\Queries.pdb
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Queries\obj\Debug\Queries.exe
+C:\Users\UNIVISTA-IT\Jonah Testing\Repos\WorkingWithLINQ\Queries\obj\Debug\Queries.pdb
